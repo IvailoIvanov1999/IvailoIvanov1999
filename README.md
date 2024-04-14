@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! <img src="https://tenor.com/bg/view/hi-gif-23520343" height="30" width="40" /> I'm Ivailo Ivanov</h1>
+<h1 align="left">Hi there! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30" width="40" /> I'm Ivailo Ivanov</h1>
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" style="height:250px;" />
 
