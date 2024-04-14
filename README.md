@@ -6,10 +6,10 @@
 - 👨‍💻 My first Django application: [Beauty Hour](https://beautyhour.azurewebsites.net/)
 
   
-<div style="display: flex;">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ivailoivanov1999&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ivailoivanov1999" style="height: 190px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivailoivanov1999&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivailoivanov1999" style="width: 40%; height: 200px;" />
-</div>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
