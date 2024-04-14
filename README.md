@@ -1,4 +1,10 @@
 <h1 align="center">Hi there! 👋 I'm Ivailo Ivanov</h1>
+
+
+- 🌱 I’m currently learning **Python web development**
+
+- 👨‍💻 My first Django application: [Beauty Hour](https://beautyhour.azurewebsites.net/)
+
   
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ivailoivanov1999&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ivailoivanov1999" />
@@ -13,11 +19,6 @@
 </p>
 
   <a href="mailto:ivailo9998@gmail.com" target="_blank"><img align="center" src="https://camo.githubusercontent.com/98dd198659cf4778e333562e95fcc9498f77e3df790c4ef63c73051e4db5dc8e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" height="30" width="40" /></a>
-
-
-- 🌱 I’m currently learning **Python web development**
-
-- 👨‍💻 My first Django application: [Beauty Hour](https://beautyhour.azurewebsites.net/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
