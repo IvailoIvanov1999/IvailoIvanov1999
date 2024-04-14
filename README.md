@@ -42,5 +42,5 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivailoivanov1999&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivailoivanov1999" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivailoivanov1999&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivailoivanov1999" style="height:300px" />
 </p>
