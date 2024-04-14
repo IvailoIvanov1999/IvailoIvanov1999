@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivailoivanov1999&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivailoivanov1999" height="150" />
 </p>
 
-  <a href="mailto:ivailo9998@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" /></a>
+  <a href="mailto:ivailo9998@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/email-open.png" alt="Email" height="30" width="40" /></a>
 
 
 - 🌱 I’m currently learning **Python web development**
