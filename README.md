@@ -7,7 +7,6 @@
 
   
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ivailoivanov1999&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="ivailoivanov1999" style="height: 200px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivailoivanov1999&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivailoivanov1999" style="width: 400px; height: 200px;" />
 </p>
 
