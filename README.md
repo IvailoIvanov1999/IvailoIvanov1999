@@ -11,10 +11,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivailoivanov1999&theme=highcontrast&hide_border=true" alt="ivailoivanov1999" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivailoivanov1999&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="ivailoivanov1999" height="150" />
 </p>
 
@@ -25,8 +21,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/ivailo-ivanov-70b95b281/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://www.facebook.com/profile.php?id=100001856125625" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="mailto:ivailo9998@gmail.com" target="_blank"><img align="center" src="https://camo.githubusercontent.com/98dd198659cf4778e333562e95fcc9498f77e3df790c4ef63c73051e4db5dc8e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" height="30" width="40" /></a>
 </p>
-<a href="mailto:ivailo9998@gmail.com" target="_blank"><img align="center" src="https://camo.githubusercontent.com/98dd198659cf4778e333562e95fcc9498f77e3df790c4ef63c73051e4db5dc8e/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" alt="Email" height="30" width="40" /></a>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
