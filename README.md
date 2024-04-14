@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivailo Ivanov</h1>
 <h3 align="center">A passionate developer from Bulgaria </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivailoivanov1999" alt="ivailoivanov1999" /></a> </p>
-
 - 🌱 I’m currently learning **Python web development**
 
 - 👨‍💻 My first Django application [https://beautyhour.azurewebsites.net/](https://beautyhour.azurewebsites.net/)
