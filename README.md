@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivailoivanov1999&show_icons=true&hide_border=true&locale=en" alt="ivailoivanov1999" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivailoivanov1999&theme=highcontrast" alt="ivailoivanov1999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivailoivanov1999&theme=highcontrast&hide_border=true" alt="ivailoivanov1999" /></p>
