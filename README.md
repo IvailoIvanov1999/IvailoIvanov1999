@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/wave/" /> I'm Ivailo Ivanov</h1>
+<h1 align="left">Hi there! <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" height="30" width="40" /> I'm Ivailo Ivanov</h1>
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" style="height:250px;" />
 
