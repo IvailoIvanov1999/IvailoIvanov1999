@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! <div class="tenor-gif-embed" data-postid="23520343" data-share-method="host" data-aspect-ratio="1.02564" data-width="100%"><a href="https://tenor.com/view/hi-gif-23520343">Hi Sticker</a>from <a href="https://tenor.com/search/hi-stickers">Hi Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script> I'm Ivailo Ivanov</h1>
+<h1 align="left">Hi there! <img src="https://tenor.com/bg/view/hi-gif-23520343" height="30" width="40" /> I'm Ivailo Ivanov</h1>
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" style="height:250px;" />
 
