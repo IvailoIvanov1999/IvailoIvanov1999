@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ivailo Ivanov</h1>
-<h3 align="center">A passionate developer from Bulgaria </h3>
 
 - 🌱 I’m currently learning **Python web development**
 
