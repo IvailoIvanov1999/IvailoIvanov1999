@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning **Python web development**
 
 - 👨‍💻 My first Django application: [Beauty Hour](https://beautyhour.azurewebsites.net/)
+
+- 📄 My portfolio: [Ivailo Ivanov](https://agreeable-pebble-0f0c3dc03.5.azurestaticapps.net/)
   
 <h3 align="left">Connect with me:</h3>
 
