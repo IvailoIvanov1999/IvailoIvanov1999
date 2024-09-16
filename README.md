@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" style="height:250px;" />
 
-- 🌱 I’m currently learning **Python web development**
+- 🌱 I’m **Python web developer**
 
 - 📄 My portfolio: [Ivailo Ivanov](https://agreeable-pebble-0f0c3dc03.5.azurestaticapps.net/)
   
