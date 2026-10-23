@@ -2,7 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="Developer GIF" style="height:250px;" />
 
-- 🌱 I am **Python web developer**
+- <img src="https://www.php.net/images/logos/php-icon.svg" width="20"> I am a **Full-Stack PHP Developer**
+- <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="20"> I am a **Full-Stack Python Developer**
   
 <h3 align="left">Connect with me:</h3>
 
